@@ -1,9 +1,10 @@
-<h1 align="center">سلام 👋، من [اسم شما] هستم</h1>
-<h3 align="center">برنامه‌نویس و علاقه‌مند به تکنولوژی</h3>
+<h1 align="center">Hi 👋, I'm Alireza</h1>
+<h3 align="center">A passionate developer and technology enthusiast
+A junior Backend developer</h3>
 
 ---
 
-### 🚀 مهارت‌ها و تکنولوژی‌ها
+### 🚀 Skills & Technologies
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
@@ -15,13 +16,13 @@
 
 ---
 
-### 📫 راه‌های ارتباطی
+### 📫 Contact Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/USERNAME/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
-  
+
   <a href="mailto:YOUR_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
   </a>
@@ -33,7 +34,7 @@
 
 ---
 
-### 📊 آمار گیت‌هاب
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" />
@@ -45,22 +46,7 @@
 
 ---
 
-### 😄 درباره من
-- 🌱 در حال یادگیری: React, Next.js  
-- 💬 سوال داری؟ بپرس! خوشحال می‌شم کمک کنم  
-- ⚡ Fun fact: عاشق ساختن پروژه‌های خفن و خلاقانه هستم 😎## Hi there 👋
-
-<!--
-**Alirezanaderi84/Alirezanaderi84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 😄 About Me
+- 🌱 I’m currently learning: React, Next.js  
+- 💬 Ask me anything — I’m happy to help  
+- ⚡ Fun fact: I love creating creative and fun projects 😎
