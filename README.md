@@ -8,7 +8,7 @@ A junior Backend developer</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,icons/nodejs" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,nodejs" />
   </a>
 </p>
 
