@@ -4,7 +4,7 @@ A junior Backend developer</h3>
 
 ---
 
-### 🚀 Skills & Technologies
+###                                        🚀 Skills & Technologies
 
 <p align="center">
   <a href="https://skillicons.dev">
