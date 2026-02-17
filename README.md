@@ -15,7 +15,17 @@
 </p>
 
 ---
+## 🛠 Featured Skills
 
+```js
+const developer = {
+    name: "YOUR_NAME",
+    role: "Backend Developer",
+    stack: ["Node.js", "Express.js", "MongoDB"],
+    tools: ["Git", "GitHub", "VS Code"],
+    challenge: "Building scalable REST APIs 🚀"
+}
+```
 ## ⚡ Tech Stack
 
 <p align="center">
