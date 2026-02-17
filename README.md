@@ -27,8 +27,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Alirezanaderi84&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alirezanaderi84&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alirezanaderi84&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
