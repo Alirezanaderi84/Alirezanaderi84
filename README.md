@@ -15,22 +15,9 @@
 
 <!-- ======================= TERMINAL STYLE ======================= -->
 
-<h2 align="center">💻 Terminal</h2>
 
-```bash
-> whoami
-Alireza Naderi
 
-> role
-Backend Developer
 
-> stack
-Node.js / Express.js / MongoDB
-
-> currently_learning
-System Design & Scalable Architecture
-
-> mission
 Build fast, secure and scalable APIs 🚀
 const developer = {
   name: "Alireza Naderi",
