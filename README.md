@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&duration=3500&pause=800&color=0A66C2&center=true&vCenter=true&width=650&lines=Alireza Naderi;Backend+Developer;Node.js+%7C+Express+%7C+MongoDB;Designing+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&duration=3500&pause=800&color=0A66C2&center=true&vCenter=true&width=650&lines=Alireza+ Naderi;Backend+Developer;Node.js+%7C+Express+%7C+MongoDB;Designing+Scalable+Systems" />
 </p>
 
 <p align="center">
