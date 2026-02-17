@@ -7,7 +7,7 @@
 <!-- ================= ANIMATED NAME ================= -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Alireza+Naderi;Backend+Developer;Node.js+%7C+Express+%7C+MongoDB;Building+Scalable+APIs+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+Im+Alireza+Naderi;Backend+Developer;Node.js+%7C+Express+%7C+MongoDB;Building+Scalable+APIs+🚀" />
 </h1>
 
 <p align="center">
@@ -29,7 +29,7 @@ const developer = {
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,js,html,css,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,git,github&theme=dark" />
 </p>
 
 ---
