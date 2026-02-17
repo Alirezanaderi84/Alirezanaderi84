@@ -1,7 +1,7 @@
 <!-- ================= HEADER WAVE ================= -->
 
 <p align="center">
-  <img src="/a.gif"/>
+  <img src="https://raw.githubusercontent.com/Alirezanaderi84/Alirezanaderi84/main/fbc6f31bd3b84159470b973aca7e0f97.gif" width="100%"/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Welcome&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
