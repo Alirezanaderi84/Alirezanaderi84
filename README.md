@@ -33,15 +33,15 @@ const AlirezaNaderi = {
   currentlyLearning: "System Design & Performance Optimization"
 };
 ```
+📊 GitHub Insights
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Alirezanaderi84&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alirezanaderi84&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alirezanaderi84&theme=tokyonight&hide_border=true" />
 </p>
-
+📈 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alirezanaderi84&theme=tokyo-night&hide_border=true"/>
 </p>
-
+📬 Connect With Me
 <p align="center">
   <a href="mailto:YOUR_EMAIL">
     <img src="https://img.shields.io/badge/Email-Contact-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
