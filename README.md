@@ -53,21 +53,22 @@ const developer = {
 ## 📬 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/USERNAME/">
+  <a href="https://www.linkedin.com/in/alireza-naderi-haghighi-a14ba2304">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:aliiirezaaanaderiii.05@gmail.com
+">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://t.me/USERNAME">
+  <a href="https://t.me/@Aliiirezanaderi">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" />
   </a>
 </p>
 
 ---
----
+
 
 <!-- ================= FOOTER WAVE ================= -->
 
