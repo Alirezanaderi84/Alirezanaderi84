@@ -1,50 +1,56 @@
-<h1 align="center">Hi 👋, I'm Alireza</h1>
-<h3 align="center">A passionate developer and technology enthusiast
-A junior Backend developer</h3>
-
----
-
-###                                        🚀 Skills & Technologies
+<h1 align="center">Hi 👋 I'm Alireza</h1>
+<h3 align="center">Backend Developer | Node.js Enthusiast 🚀</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img  src="https://skillicons.dev/icons?i=html,css,js,expressjs,nodejs,mongodb,mysql,git" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Node.js+%7C+Express+%7C+MongoDB;Clean+Code+Lover;Always+Learning+New+Things" />
 </p>
 
 ---
 
-### 📫 Contact Me
+## 🧑‍💻 About Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/USERNAME/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://t.me/USERNAME">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" />
-  </a>
-</p>
+- 💻 Backend Developer (Node.js)
+- 🌱 Currently learning advanced system design
+- 🎯 Goal: Becoming a Professional Backend Engineer
+- ⚡ Fun fact: I love clean and scalable architecture
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alirezanaderi84&show_icons=true&theme=radical" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alirezanaderi84&theme=radical" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,js,html,css,git,github" />
+
 </p>
 
 ---
 
-### 😄 About Me
-- 🌱 I’m currently learning: React, Next.js  
-- 💬 Ask me anything — I’m happy to help  
-- ⚡ Fun fact: I love creating creative and fun projects 😎
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alirezanaderi84&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alirezanaderi84&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alirezanaderi84&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🛠 Featured Skills
+
+```js
+const developer = {
+    name: "YOUR_NAME",
+    role: "Backend Developer",
+    stack: ["Node.js", "Express.js", "MongoDB"],
+    tools: ["Git", "GitHub", "VS Code"],
+    challenge: "Building scalable REST APIs 🚀"
+}
