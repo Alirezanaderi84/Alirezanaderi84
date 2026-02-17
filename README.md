@@ -33,7 +33,7 @@ const AlirezaNaderi = {
   currentlyLearning: "System Design & Performance Optimization"
 };
 ```
-##📊 GitHub Insights
+## ⚡ Tech Arsenal
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alirezanaderi84&theme=tokyonight&hide_border=true" />
