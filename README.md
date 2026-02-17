@@ -1,8 +1,8 @@
 <!-- ===== Animated Name ===== -->
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+I'm+YOUR_NAME;Backend+Developer;Node.js+%7C+Express+%7C+MongoDB;Building+Scalable+APIs+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=Hey+I'm+Alireza Naderi;Backend+Developer;Node.js+%7C+Express+%7C+MongoDB;Building+Scalable+APIs+🚀" />
 </h1>
+
 
 <p align="center">
   Backend Developer focused on clean architecture & scalable systems
