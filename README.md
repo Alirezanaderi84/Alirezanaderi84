@@ -19,7 +19,7 @@
 
 ```js
 const developer = {
-    name: "YOUR_NAME",
+    name: "Alireza Naderi",
     role: "Backend Developer",
     stack: ["Node.js", "Express.js", "MongoDB"],
     tools: ["Git", "GitHub", "VS Code"],
@@ -57,8 +57,7 @@ const developer = {
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="mailto:aliiirezaaanaderiii.05@gmail.com
-">
+  <a href="mailto:aliiirezaaanaderiii.05@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
   </a>
 
