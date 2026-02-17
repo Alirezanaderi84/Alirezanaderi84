@@ -48,7 +48,7 @@
 
 ```js
 const developer = {
-    name: "YOUR_NAME",
+    name: "Alireza",
     role: "Backend Developer",
     stack: ["Node.js", "Express.js", "MongoDB"],
     tools: ["Git", "GitHub", "VS Code"],
