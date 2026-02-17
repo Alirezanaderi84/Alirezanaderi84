@@ -1,8 +1,7 @@
 <!-- ================= HEADER WAVE ================= -->
 
 <p align="center">
-  https://github.com/Alirezanaderi84/Alirezanaderi84/blob/main/7c433e7273948204d875ee5cdcf218ff.jpg
-    <img src="  https://github.com/Alirezanaderi84/Alirezanaderi84/blob/main/7c433e7273948204d875ee5cdcf218ff.jpg"   width="100%"/>
+    <img src="https://github.com/Alirezanaderi84/Alirezanaderi84/blob/main/7c433e7273948204d875ee5cdcf218ff.jpg"   width="100%"/>
   <img src="https://github.com/Alirezanaderi84/Alirezanaderi84/blob/main/9070324cdfc07c68d60eed0c39e77573.gif"   width="800px" height="450px" alt="Header GIF"/>
 
 </p>
